@@ -1,0 +1,8 @@
+.btn{
+    float: right;
+}
+
+.active{
+    background-color: red;
+    color: #fff;
+}
